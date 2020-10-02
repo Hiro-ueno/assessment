@@ -7,7 +7,7 @@
       property="og:url"
       content="https://hiro-ueno.github.io/assessment/assessment.html"
     />
-    <meta property="og:title" content="あなたのいいところ診断" />
+    <meta property="og:title" content="Hiro-uenoが作ったあなたのいいところ診断" />
     <meta
       property="og:description"
       content="N予備校プログラミング入門コースで制作した、「あなたのいいところ診断」サイトです。"
